@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    public interface INumberProvider
+    public class FunWithMaths
     {
-        int[] GetNumbers();
     }
 }

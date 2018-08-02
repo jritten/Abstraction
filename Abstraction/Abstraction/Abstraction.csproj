@@ -45,7 +45,10 @@
     <Compile Include="Boss.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="EmployeeManager.cs" />
+    <Compile Include="EvenNumberProvider.cs" />
+    <Compile Include="FunWithMaths.cs" />
     <Compile Include="INumberProvider.cs" />
+    <Compile Include="OddNumberProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WorkerBee.cs" />
