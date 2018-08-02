@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace AbstractionTests
 {
     [TestClass]
-    public class UnitTest1
+    public class EmployeeTests
     {
         [TestMethod]
         public void TestMethod1()
