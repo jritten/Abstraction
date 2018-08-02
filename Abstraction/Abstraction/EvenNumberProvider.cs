@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    public interface INumberProvider
+    public class EvenNumberProvider : INumberProvider
     {
-        int[] GetNumbers();
+        public int[] GetNumbers()
+        {
+            return new int[] { 2, 4, 6, 8, 10 };
+        }
     }
 }
