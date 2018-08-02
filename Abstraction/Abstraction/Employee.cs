@@ -10,7 +10,7 @@ namespace Abstraction
     {
         public string Name { get; private set; }
 
-        public Employee(string Name)
+        protected Employee(string Name)
         {
             this.Name = Name;
         }

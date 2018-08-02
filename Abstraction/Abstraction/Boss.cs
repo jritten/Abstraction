@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    public class WorkerBee : Employee
+    public class Boss : Employee
     {
-        public WorkerBee (string name) : base(name)
+        public Boss(string name) : base(name)
         {
 
         }
