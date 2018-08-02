@@ -51,6 +51,7 @@
     <Compile Include="EmployeeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BossTests.cs" />
+    <Compile Include="EmployeeManager.cs" />
     <Compile Include="WorkerBeeTests.cs" />
   </ItemGroup>
   <ItemGroup>

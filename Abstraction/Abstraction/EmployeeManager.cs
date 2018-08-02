@@ -8,7 +8,7 @@ namespace Abstraction
 {
     public class EmployeeManager
     {
-        public int GetTotalSalary(List<Employee> employees)
+        public int GetTotalSalary(Employee[] employees)
         {
             int totalSalary = 0;
             foreach(Employee employee in employees)
