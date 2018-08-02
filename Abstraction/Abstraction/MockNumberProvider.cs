@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    public class OddNumberProvider : INumberProvider
+    public class MockNumberProvider : INumberProvider
     {
         public int[] GetNumbers()
         {
-            return new int[] { 1, 3, 5, 7, 9 };
+            return new int[] { 1 };
         }
     }
 }

@@ -48,6 +48,7 @@
     <Compile Include="EvenNumberProvider.cs" />
     <Compile Include="FunWithMaths.cs" />
     <Compile Include="INumberProvider.cs" />
+    <Compile Include="MockNumberProvider.cs" />
     <Compile Include="OddNumberProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
